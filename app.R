@@ -176,7 +176,7 @@ tabPanel("Acerca de",
              )
          )
          ),
-footer = br(),br(),p("By ",a(href="https:/www.twitter.com/n0wh3r3m4n","@n0wh3r3m4n"),
+footer = br(),br(),p("By ",a(href="https://www.twitter.com/n0wh3r3m4n","@n0wh3r3m4n"),
                      style="font-size:8pt",align="right")
 )
 
