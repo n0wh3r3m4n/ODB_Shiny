@@ -8,4 +8,8 @@ Si bien la página de ILDA incluye una herramienta de comparación de países, m
 
 Este repositorio incluye el script en R para generar las tablas del barómetro por año (se alimenta de la información de ILDA), las tablas que se han generado (una general y una por cada dimensión) y el script de la aplicación en shiny.
 
+#5 de agosto
+
+He agregado unos cuadros adicionales (que no se generan en el app de shiny) y el script para obtenerlos (lac_graph.R)
+
 © Copyright 2021 [Arturo Muente-Kunigami](https://www.twitter.com/n0wh3r3m4n).
